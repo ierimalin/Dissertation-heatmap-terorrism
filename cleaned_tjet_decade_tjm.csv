@@ -1,0 +1,133 @@
+country,tjm_1970_1980,tjm_1981_1990,tjm_1991_2000,tjm_2001_2010,tjm_2011_2021
+Afghanistan,1,1,1,1,1
+Albania,0,0,1,0,0
+Algeria,0,0,1,1,1
+Angola,1,1,1,1,0
+Argentina,1,1,1,1,1
+Azerbaijan,0,0,1,1,1
+Bangladesh,1,1,1,1,1
+Belgium,0,0,1,1,1
+Benin,0,1,0,0,0
+Bolivia,0,1,1,0,1
+Bosnia and Herzegovina,0,0,1,1,1
+Brazil,1,0,1,1,1
+Bulgaria,0,1,1,0,0
+Burkina Faso,0,1,1,0,0
+Burundi,0,0,1,1,1
+Cambodia,0,0,1,1,0
+Cameroon,0,1,1,0,1
+Canada,0,0,0,1,0
+Central African Republic,0,0,1,1,1
+Chad,1,0,1,1,1
+Chile,1,1,1,1,1
+Colombia,0,1,1,1,1
+Comoros,0,0,1,0,0
+Congo,0,0,1,1,1
+Cote d'Ivoire,0,0,0,1,1
+Croatia,0,0,1,1,1
+Cyprus,1,0,0,0,0
+Czechia,0,1,1,1,0
+Democratic Republic of the Congo,1,1,1,1,1
+Denmark,0,0,1,1,0
+Djibouti,0,0,1,0,0
+Dominican Republic,0,0,1,0,0
+Ecuador,0,0,1,0,0
+Egypt,0,0,1,1,1
+El Salvador,1,1,1,0,0
+Estonia,0,0,1,0,0
+Ethiopia,1,1,1,1,1
+Fiji,0,0,0,0,1
+Finland,0,0,0,1,1
+France,1,1,0,1,1
+Gabon,0,0,1,0,0
+Gambia,0,1,1,0,1
+Georgia,0,0,1,1,1
+Germany,0,0,1,1,1
+Ghana,1,1,1,1,0
+Greece,1,0,0,0,0
+Grenada,0,0,0,1,0
+Guatemala,0,1,1,1,1
+Guinea-Bissau,0,0,1,0,0
+Haiti,0,1,1,0,0
+Honduras,0,1,0,0,0
+Hungary,0,0,1,0,1
+India,1,1,1,1,1
+Indonesia,NA,NA,NA,NA,NA
+Iran,1,1,0,0,0
+Iraq,1,1,1,1,1
+Israel,1,1,1,1,1
+Italy,0,1,1,1,0
+Kenya,0,1,0,1,1
+Kosovo,0,0,1,1,1
+Laos,1,0,1,1,0
+Latvia,0,0,1,1,0
+Lebanon,1,0,1,1,0
+Liberia,1,1,1,1,0
+Libya,0,0,0,0,1
+Lithuania,0,0,1,1,1
+Madagascar,1,0,1,0,1
+Malawi,0,0,1,0,0
+Mali,0,0,1,0,1
+Mauritania,0,0,0,1,1
+Mexico,0,0,1,1,1
+Moldova,0,0,1,1,0
+Montenegro,0,0,0,1,0
+Morocco,1,0,1,1,0
+Mozambique,0,1,1,1,1
+Myanmar,1,1,0,0,1
+Namibia,0,1,1,0,0
+Nepal,0,1,1,1,1
+Netherlands,0,0,1,1,1
+Nicaragua,1,1,1,0,0
+Niger,0,0,1,1,1
+Nigeria,1,1,1,1,1
+North Macedonia,0,0,0,1,1
+Norway,0,0,0,0,1
+Oman,1,0,0,0,0
+Pakistan,1,1,1,1,1
+Panama,0,1,1,1,1
+Papua New Guinea,0,1,1,1,0
+Paraguay,0,1,1,1,0
+Peru,1,1,1,1,1
+Philippines,1,1,1,1,1
+Poland,0,1,1,1,0
+Portugal,1,0,1,0,0
+Romania,0,1,1,1,1
+Russian Federation,0,0,1,1,1
+Rwanda,0,0,1,1,0
+Saudi Arabia,1,0,0,0,0
+Senegal,0,0,1,1,0
+Serbia,0,0,1,1,1
+Sierra Leone,0,0,1,1,0
+Solomon Islands,0,0,0,1,0
+Somalia,0,1,1,1,1
+South Africa,0,1,1,1,0
+South Korea,0,1,1,1,1
+South Sudan,NA,NA,NA,NA,NA
+Spain,1,1,1,0,1
+Sri Lanka,NA,NA,NA,NA,NA
+Sudan,1,1,1,1,1
+Suriname,0,1,1,0,1
+Sweden,0,0,0,1,1
+Switzerland,0,0,1,0,1
+Syria,1,1,1,0,1
+Taiwan,0,0,0,0,1
+Tajikistan,0,0,1,1,1
+Tanzania,0,0,1,1,1
+Thailand,1,1,1,1,0
+Timor-Leste,0,0,1,1,0
+Togo,0,1,1,0,0
+Trinidad and Tobago,0,1,1,0,0
+Tunisia,1,0,0,0,1
+Turkey,0,1,1,1,0
+Uganda,1,1,1,1,0
+Ukraine,0,0,0,0,1
+United Kingdom,0,0,1,1,0
+United States of America,0,0,1,0,1
+Uruguay,1,1,1,1,1
+Uzbekistan,0,0,1,1,0
+Venezuela,0,0,1,0,0
+Yemen,1,1,1,1,1
+Zambia,0,0,1,0,0
+Zimbabwe,1,1,0,0,0
+NA,0,0,0,1,1
